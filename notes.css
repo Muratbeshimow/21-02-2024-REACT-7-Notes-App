@@ -1,0 +1,10 @@
+textarea {
+    background-color: rgb(11, 100, 100);
+    width: 5rem;
+    height: 5rem;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
